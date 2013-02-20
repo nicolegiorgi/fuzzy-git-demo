@@ -1,2 +1,2 @@
-2 - Hello GitWorld :)
+3 - Hello GitWorld :) branches merged!
 ==============
